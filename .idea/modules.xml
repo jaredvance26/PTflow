@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PTflow.iml" filepath="$PROJECT_DIR$/.idea/PTflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ptflow/ptflow.iml" filepath="$PROJECT_DIR$/ptflow/ptflow.iml" />
     </modules>
   </component>
 </project>
